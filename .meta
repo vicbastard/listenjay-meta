@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "listenjay-crawl-scheduler": "git@github.com:vicbastard/listenjay-crawl-scheduler.git",
+    "listenjay-crawler": "git@github.com:vicbastard/listenjay-crawler.git",
+    "listenjay-deployment": "git@github.com:vicbastard/listenjay-deployment.git",
+    "listenjay-indexer": "git@github.com:vicbastard/listenjay-indexer.git",
+    "listenjay-messagebus": "git@github.com:vicbastard/listenjay-messagebus.git",
+    "listenjay-podcast-db": "git@github.com:vicbastard/listenjay-podcast-db.git",
+    "listenjay-revai-transcriber": "git@github.com:vicbastard/listenjay-revai-transcriber.git",
+    "listenjay-revai-transcript-fetcher": "git@github.com:vicbastard/listenjay-revai-transcript-fetcher.git",
+    "listenjay-revai-webhook": "git@github.com:vicbastard/listenjay-revai-webhook.git",
+    "listenjay-podcast-api": "git@github.com:vicbastard/listenjaypodcastapi.git"
+  }
+}

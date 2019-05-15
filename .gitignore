@@ -309,3 +309,13 @@ gradle-app.setting
 decrypt.key
 data
 TODO.html
+listenjay-crawl-scheduler
+listenjay-crawler
+listenjay-deployment
+listenjay-indexer
+listenjay-messagebus
+listenjay-podcast-db
+listenjay-revai-transcriber
+listenjay-revai-transcript-fetcher
+listenjay-revai-webhook
+listenjay-podcast-api
