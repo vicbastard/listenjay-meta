@@ -9,6 +9,7 @@
     "listenjay-revai-transcriber": "git@github.com:vicbastard/listenjay-revai-transcriber.git",
     "listenjay-revai-transcript-fetcher": "git@github.com:vicbastard/listenjay-revai-transcript-fetcher.git",
     "listenjay-revai-webhook": "git@github.com:vicbastard/listenjay-revai-webhook.git",
-    "listenjay-podcast-api": "git@github.com:vicbastard/listenjaypodcastapi.git"
+    "listenjay-podcast-api": "git@github.com:vicbastard/listenjaypodcastapi.git",
+    "listenjay-chrome-extension": "git@github.com:vicbastard/listenjay-chrome-extension.git"
   }
 }
