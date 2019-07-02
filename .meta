@@ -11,6 +11,7 @@
     "listenjay-revai-webhook": "git@github.com:vicbastard/listenjay-revai-webhook.git",
     "listenjay-podcast-api": "git@github.com:vicbastard/listenjaypodcastapi.git",
     "listenjay-chrome-extension": "git@github.com:vicbastard/listenjay-chrome-extension.git",
-    "listenjay-mock-revai-service": "git@github.com:vicbastard/listenjay-mock-revai-service.git"
+    "listenjay-mock-revai-service": "git@github.com:vicbastard/listenjay-mock-revai-service.git",
+    "listenjay-ssh-proxy": "git@github.com:vicbastard/listenjay-ssh-proxy.git"
   }
 }
