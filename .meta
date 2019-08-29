@@ -13,6 +13,7 @@
     "listenjay-chrome-extension": "git@github.com:vicbastard/listenjay-chrome-extension.git",
     "listenjay-mock-revai-service": "git@github.com:vicbastard/listenjay-mock-revai-service.git",
     "listenjay-ssh-proxy": "git@github.com:vicbastard/listenjay-ssh-proxy.git",
-    "listenjay-podjay-rating-crawler": "git@github.com:vicbastard/listenjay-podjay-rating-crawler.git"
+    "listenjay-podjay-rating-crawler": "git@github.com:vicbastard/listenjay-podjay-rating-crawler.git",
+    "listenjay-proxy-server": "git@github.com:vicbastard/listenjay_proxy_server.git"
   }
 }
